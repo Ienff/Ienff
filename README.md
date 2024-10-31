@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ienff
 - 👀 I’m interested in paleontology and paleoanthropology.
-- 🌱 I’m currently learning bioinformatics.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on bioinformatics.
 - 📫 How to reach me yaochong1126@163.com
 
