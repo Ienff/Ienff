@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chong Yao.
 - 👀 I’m interested in paleontology and paleoanthropology.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on bioinformatics.
+- 🌱 I’m currently learning bioinformatics.
 - 📫 How to reach me yaochong1126@163.com
 
 <!---
